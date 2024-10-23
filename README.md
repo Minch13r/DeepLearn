@@ -1,5 +1,6 @@
 "# DeepLearn" 
-1주차(diabetes)
+
+# 1주차(diabetes)
 1. 당뇨병 데이터를 가지고 머신러닝 5가지 분류를 수행.
 
 (SVM, LR, RF, DT, KNN)
