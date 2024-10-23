@@ -1,6 +1,6 @@
 "# DeepLearn" 
 
-# 1주차(diabetes)
+## 1주차(diabetes)
 1. 당뇨병 데이터를 가지고 머신러닝 5가지 분류를 수행.
 
 (SVM, LR, RF, DT, KNN)
@@ -11,17 +11,17 @@
 
 4. 3번과 동일하지만 dense layer만 사용한 신경만으로 회귀를 수행하라.
 
-2주차(abalone)
+## 2주차(abalone)
 전복 데이터를 가지고,
 
 머신러닝 분류, 회귀
 
 신경망 분류, 회귀를 각각 수행하라
 
-3주차(abalone)
+## 3주차(abalone)
 분류, 회귀를 CNN과 LSTM으로 분류 및 회귀
 
-4주차
+## 4주차
 diabates 당뇨병 분류를 CNN으로 구현하고
 
 모델을 저장한 후에
@@ -30,7 +30,7 @@ diabates 당뇨병 분류를 CNN으로 구현하고
 
 미세조정 fine-tunning 
 
-5주차
+## 5주차
 
 - 1st 실습
 
@@ -63,7 +63,7 @@ lyingBack                  480
 
 6. accuracy를 구함
 
-6주차
+## 6주차
 
 -  DSA dataset을 이용해서, 정상데이터(Lying)과 비정상데이터 설정 (다른 jumping이 아니라 activity 선택)
 
